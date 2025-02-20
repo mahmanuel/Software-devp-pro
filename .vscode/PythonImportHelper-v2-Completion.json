@@ -1,0 +1,1230 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Activity",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionForum",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExternalIntegration",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupProject",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mentorship",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResearchMaterial",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "importPath": "acameets.models",
+        "description": "acameets.models",
+        "isExtraImport": true,
+        "detail": "acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "importPath": "rest_framework.authtoken.models",
+        "description": "rest_framework.authtoken.models",
+        "isExtraImport": true,
+        "detail": "rest_framework.authtoken.models",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "acameet.acameet.asgi",
+        "description": "acameet.acameet.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "acameet.acameet.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-b!u6m#hyo$-e1rjx^v#nm&*90ev&f$qit608hl9-7128xd0z$a\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOWED_ORIGINS = [",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-b!u6m#hyo$-e1rjx^v#nm&*90ev&f$qit608hl9-7128xd0z$a\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React frontend URL\n]\n# Application definition\nAUTH_USER_MODEL = \"acameets.User\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React frontend URL\n]\n# Application definition\nAUTH_USER_MODEL = \"acameets.User\"\nINSTALLED_APPS = [\n    \"django.contrib.admin\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nCORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React frontend URL\n]\n# Application definition\nAUTH_USER_MODEL = \"acameets.User\"\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True\nCORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React frontend URL\n]\n# Application definition\nAUTH_USER_MODEL = \"acameets.User\"\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOWED_ORIGINS",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "CORS_ALLOWED_ORIGINS = [\n    \"http://localhost:3000\",  # React frontend URL\n]\n# Application definition\nAUTH_USER_MODEL = \"acameets.User\"\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"acameets.User\"\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"acameets\",\n    \"rest_framework\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"acameets\",\n    \"rest_framework\",\n    \"rest_framework.authtoken\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_PERMISSION_CLASSES\": [\n        \"rest_framework.permissions.AllowAny\",  # Allow access to anyone\n    ],\n    \"DEFAULT_AUTHENTICATION_CLASSES\": [\n        \"rest_framework.authentication.SessionAuthentication\",  # Session-based auth\n        \"rest_framework.authentication.TokenAuthentication\",  # Token-based auth\n    ],\n    \"DEFAULT_PAGINATION_CLASS\": \"rest_framework.pagination.PageNumberPagination\",\n    \"PAGE_SIZE\": 10,  # Pagination settings",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": [\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ],\n}\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n    \"corsheaders.middleware.CorsMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "ROOT_URLCONF = \"acameet.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"acameet.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "acameet.acameet.settings",
+        "description": "acameet.acameet.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "acameet.acameet.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "acameet.acameet.urls",
+        "description": "acameet.acameet.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n]\nfrom rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView\nurlpatterns = [\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n]",
+        "detail": "acameet.acameet.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "acameet.acameet.urls",
+        "description": "acameet.acameet.urls",
+        "peekOfCode": "urlpatterns = [\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n]",
+        "detail": "acameet.acameet.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "acameet.acameet.wsgi",
+        "description": "acameet.acameet.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "acameet.acameet.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "AcameetsConfig",
+        "kind": 6,
+        "importPath": "acameet.acameets.apps",
+        "description": "acameet.acameets.apps",
+        "peekOfCode": "class AcameetsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'acameets'",
+        "detail": "acameet.acameets.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class User(AbstractUser):\n    ROLE_CHOICES = [\n        (\"student\", \"Student\"),\n        (\"mentor\", \"Mentor\"),\n        (\"admin\", \"Admin\"),\n    ]\n    role = models.CharField(max_length=10, choices=ROLE_CHOICES, default=\"student\")\nclass Profile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    bio = models.TextField(blank=True, null=True)",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Profile(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    bio = models.TextField(blank=True, null=True)\n    profile_picture = models.ImageField(upload_to=\"profile/\", blank=True, null=True)\n    expertise = models.CharField(max_length=255, blank=True, null=True)\n    is_mentor = models.BooleanField(default=False)\n    friends = models.ManyToManyField(\"self\", blank=True)\n    def __str__(self):\n        return self.user.username\n# Discussion Forum",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionForum",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class DiscussionForum(models.Model):\n    title = models.CharField(max_length=255)\n    description = models.TextField()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\nclass Post(models.Model):\n    forum = models.ForeignKey(\n        DiscussionForum, on_delete=models.CASCADE, related_name=\"posts\"",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Post(models.Model):\n    forum = models.ForeignKey(\n        DiscussionForum, on_delete=models.CASCADE, related_name=\"posts\"\n    )\n    content = models.TextField()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    upvotes = models.IntegerField(default=0)\n    downvotes = models.IntegerField(default=0)\n    def __str__(self):",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Comment(models.Model):\n    post = models.ForeignKey(Post, on_delete=models.CASCADE, related_name=\"comments\")\n    content = models.Textfield()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Comment by {self.created_by.username} on {self.post.id}\"\n# Research Material\nclass ResearchMaterial(models.Model):\n    title = models.CharField(max_length=255)",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "ResearchMaterial",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class ResearchMaterial(models.Model):\n    title = models.CharField(max_length=255)\n    description = models.TextField()\n    file = models.FileField(upload_to=\"research_materials/\")\n    uploaded_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    created_at = models.DateTimeField(auto_now_add=True)\n    tags = models.CharField(max_length=255, blank=True)\n    def __str__(self):\n        return self.title\n# Collaboration Tools",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "GroupProject",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class GroupProject(models.Model):\n    title = models.CharField(max_lengths=255)\n    description = models.TextField()\n    created_by = models.ForeignKey(User, on_delete=models.CASCADE)\n    members = models.ManyToManyField(User, related_name=\"group_projects\")\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\nclass Task(models.Model):\n    project = models.ForeignKey(",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Task",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Task(models.Model):\n    project = models.ForeignKey(\n        GroupProject, on_delete=models.CASCADE, related_name=\"tasks\"\n    )\n    title = models.CharField(max_length=255)\n    description = models.TextField(blank=True)\n    assigned_to = models.ForeignKey(\n        User, on_delete=models.CASCADE, blank=True, null=True\n    )\n    status = models.CharField(",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Feedback(models.Model):\n    student = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"feedback_received\"\n    )\n    given_by = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"feedback_given\"\n    )\n    comments = models.TextField()\n    rating = models.IntegerField(default=1)  # 1-5 rating scale\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Event",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Event(models.Model):\n    title = models.CharField(max_length=255)\n    description = models.TextField()\n    date = models.DateTimeField()\n    location = models.CharField(max_length=255)\n    organizer = models.ForeignKey(User, on_delete=models.CASCADE)\n    attendees = models.ManyToManyField(User, related_name=\"events_attended\", blank=True)\n    def __str__(self):\n        return self.title\n# Mentorship Program",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Mentorship",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Mentorship(models.Model):\n    mentor = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"mentorships_as_mentor\"\n    )\n    mentee = models.ForeignKey(\n        User, on_delete=models.CASCADE, related_name=\"mentorships_as_mentee\"\n    )\n    created_at = models.DateTimeField(auto_now_add=True)\n    status = models.Charfield(\n        max_length=20,",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "Activity",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class Activity(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    content = models.TextField()\n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"Activity by {self.user.username}\"\n# Integration with External Platforms\nclass ExternalIntegration(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    platform = models.CharField(",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExternalIntegration",
+        "kind": 6,
+        "importPath": "acameet.acameets.models",
+        "description": "acameet.acameets.models",
+        "peekOfCode": "class ExternalIntegration(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    platform = models.CharField(\n        max_length=50,\n        choices=[\n            (\"LinkedIn\", \"LinkedIn\"),\n            (\"ResearchGate\", \"ResearchGate\"),\n            (\"GitHub\", \"GitHub\"),\n        ],\n    )",
+        "detail": "acameet.acameets.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = [\"id\", \"username\", \"email\"]\n# Profile Serializer\nclass ProfileSerializer(serializers.ModelSerializer):\n    user = UserSerializer()\n    class Meta:\n        model = DiscussionForum\n        fields = \"__all__\"",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class ProfileSerializer(serializers.ModelSerializer):\n    user = UserSerializer()\n    class Meta:\n        model = DiscussionForum\n        fields = \"__all__\"\n# discussion Forum\nclass DiscussionForumSerializer(serializers.ModelSerializers):\n    class Meta:\n        model = DiscussionForum\n        fields = \"__all__\"",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionForumSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class DiscussionForumSerializer(serializers.ModelSerializers):\n    class Meta:\n        model = DiscussionForum\n        fields = \"__all__\"\nclass PostSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Post\n        fields = \"__all__\"\nclass CommentSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class PostSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Post\n        fields = \"__all__\"\nclass CommentSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Comment\n        fields = \"__all__\"\n# Research Material\nclass ResearchMaterialSerializer(serializers.ModelSerializer):",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Comment\n        fields = \"__all__\"\n# Research Material\nclass ResearchMaterialSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ResearchMaterial\n        fields = \"\"\n# Collaboration",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ResearchMaterialSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class ResearchMaterialSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ResearchMaterial\n        fields = \"\"\n# Collaboration\nclass GroupProjectSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = GroupProject\n        fields = \"__all__\"\nclass TaskSerializer(serializers.ModelSerializer):",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GroupProjectSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class GroupProjectSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = GroupProject\n        fields = \"__all__\"\nclass TaskSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Task\n        fields = \"__all__\"\n# Peer Feedback\nclass FeedbackSerializer(serializers.ModelSerializer):",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TaskSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class TaskSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Task\n        fields = \"__all__\"\n# Peer Feedback\nclass FeedbackSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Feedback\n        fields = \"__all__\"\n# Events",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "FeedbackSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class FeedbackSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Feedback\n        fields = \"__all__\"\n# Events\nclass EventSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Event\n        fields = \"__all__\"\n# Mentorship",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "EventSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class EventSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Event\n        fields = \"__all__\"\n# Mentorship\nclass MentorshipSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Mentorship\n        fields = \"__all__\"\n# Activity Feed",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "MentorshipSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class MentorshipSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Mentorship\n        fields = \"__all__\"\n# Activity Feed\nclass ActivitySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Activity\n        fields = \"__all__\"\n# External Integrations",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ActivitySerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class ActivitySerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Activity\n        fields = \"__all__\"\n# External Integrations\nclass ExternalIntegrationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ExternalIntegration\n        fields = \"__all__\"",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ExternalIntegrationSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.serializers",
+        "description": "acameet.acameets.serializers",
+        "peekOfCode": "class ExternalIntegrationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ExternalIntegration\n        fields = \"__all__\"",
+        "detail": "acameet.acameets.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "acameet.acameets.urls",
+        "description": "acameet.acameets.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"hello/\", views.say_hello),\n    path(\"api/issues/\", views.issue_list, name=\"issue_list\"),\n]\nfrom django.urls import path\nfrom .views import LoginView, LogoutView, UserProfileView\nurlpatterns = [\n    path(\"login/\", LoginView.as_view(), name=\"login\"),\n    path(\"logout/\", LogoutView.as_view(), name=\"logout\"),\n    path(\"profile/\", UserProfileView.as_view(), name=\"profile\"),",
+        "detail": "acameet.acameets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "acameet.acameets.urls",
+        "description": "acameet.acameets.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"login/\", LoginView.as_view(), name=\"login\"),\n    path(\"logout/\", LogoutView.as_view(), name=\"logout\"),\n    path(\"profile/\", UserProfileView.as_view(), name=\"profile\"),\n]\nfrom django.urls import path, include\nfrom rest_framework.routers import DefaultRouter\nfrom .views import *\nrouter = DefaultRouter()\nrouter.register(r\"users\", UserViewSet)",
+        "detail": "acameet.acameets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "acameet.acameets.urls",
+        "description": "acameet.acameets.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r\"users\", UserViewSet)\nrouter.register(r\"profiles\", ProfileViewSet)\nrouter.register(r\"discussion_forums\", DiscussionForumViewSet)\nrouter.register(r\"posts\", PostViewSet)\nrouter.register(r\"comments\", CommentViewSet)\nrouter.register(r\"research_materials\", ResearchMaterialViewSet)\nrouter.register(r\"group_projects\", GroupProjectViewSet)\nrouter.register(r\"tasks\", TaskViewSet)\nrouter.register(r\"feedback\", FeedbackViewSet)",
+        "detail": "acameet.acameets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "acameet.acameets.urls",
+        "description": "acameet.acameets.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"api/\", include(router.urls)),\n]",
+        "detail": "acameet.acameets.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileView",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class UserProfileView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request):\n        if request.user.role == \"admin\":\n            return Response({\"message\": \"Welcome, Admin!\"})\n        elif request.user.role == \"mentor\":\n            return Response({\"message\": \"Welcome, Mentor!\"})\n        return Response({\"message\": \"Welcome, Student!\"})\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = User\n        fields = [\"id\", \"username\", \"email\", \"role\"]\nclass LoginSerializer(serializers.Serializer):\n    username = serializers.CharField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, data):\n        user = authenticate(username=data[\"username\"], password=data[\"password\"])\n        if user:",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    username = serializers.CharField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, data):\n        user = authenticate(username=data[\"username\"], password=data[\"password\"])\n        if user:\n            token, _ = Token.objects.get_or_create(user=user)\n            return {\"token\": token.key, \"user\": UserSerializer(user).data}\n        raise serializers.ValidationError(\"Invalid credentials\")\nfrom django.contrib.auth import login, logout",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class LoginView(APIView):\n    def post(self, request):\n        serializer = LoginSerializer(data=request.data)\n        if serializer.is_valid():\n            return Response(serializer.validated_data)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\nclass LogoutView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request):\n        request.auth.delete()",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class LogoutView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request):\n        request.auth.delete()\n        return Response(status=status.HTTP_204_NO_CONTENT)\nclass UserProfileView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request):\n        serializer = UserSerializer(request.user)\n        return Response(serializer.data)",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileView",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class UserProfileView(APIView):\n    permission_classes = [permissions.IsAuthenticated]\n    def get(self, request):\n        serializer = UserSerializer(request.user)\n        return Response(serializer.data)\ndef say_hello(request):\n    return render(request, \"hello.html\", {\"name\": \"Mah\"})\ndef issue_list(request):\n    issues = Issue.objects.all().values(\"id\", \"title\", \"description\")\n    return JsonResponse(list(issues), safe=False)",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass ProfileViewSet(viewsets.ModelViewSet):\n    queryset = Profile.objects.all()\n    serializer_class = ProfileSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Discussion Forum\nclass DiscussionForumViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class ProfileViewSet(viewsets.ModelViewSet):\n    queryset = Profile.objects.all()\n    serializer_class = ProfileSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Discussion Forum\nclass DiscussionForumViewSet(viewsets.ModelViewSet):\n    queryset = DiscussionForum.objects.all()\n    serializer_class = DiscussionForumSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass PostViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "DiscussionForumViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class DiscussionForumViewSet(viewsets.ModelViewSet):\n    queryset = DiscussionForum.objects.all()\n    serializer_class = DiscussionForumSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class PostViewSet(viewsets.ModelViewSet):\n    queryset = Post.objects.all()\n    serializer_class = PostSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Research Material\nclass ResearchMaterialViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class CommentViewSet(viewsets.ModelViewSet):\n    queryset = Comment.objects.all()\n    serializer_class = CommentSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Research Material\nclass ResearchMaterialViewSet(viewsets.ModelViewSet):\n    queryset = ResearchMaterial.objects.all()\n    serializer_class = ResearchMaterialSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Collaboration",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "ResearchMaterialViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class ResearchMaterialViewSet(viewsets.ModelViewSet):\n    queryset = ResearchMaterial.objects.all()\n    serializer_class = ResearchMaterialSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Collaboration\nclass GroupProjectViewSet(viewsets.ModelViewSet):\n    queryset = GroupProject.objects.all()\n    serializer_class = GroupProjectSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass TaskViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "GroupProjectViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class GroupProjectViewSet(viewsets.ModelViewSet):\n    queryset = GroupProject.objects.all()\n    serializer_class = GroupProjectSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass TaskViewSet(viewsets.ModelViewSet):\n    queryset = Task.objects.all()\n    serializer_class = TaskSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Peer Feedback\nclass FeedbackViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class TaskViewSet(viewsets.ModelViewSet):\n    queryset = Task.objects.all()\n    serializer_class = TaskSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Peer Feedback\nclass FeedbackViewSet(viewsets.ModelViewSet):\n    queryset = Feedback.objects.all()\n    serializer_class = FeedbackSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Events",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "FeedbackViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class FeedbackViewSet(viewsets.ModelViewSet):\n    queryset = Feedback.objects.all()\n    serializer_class = FeedbackSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Events\nclass EventViewSet(viewsets.ModelViewSet):\n    queryset = Event.objects.all()\n    serializer_class = EventSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Mentorship",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "EventViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class EventViewSet(viewsets.ModelViewSet):\n    queryset = Event.objects.all()\n    serializer_class = EventSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Mentorship\nclass MentorshipViewSet(viewsets.ModelViewSet):\n    queryset = Mentorship.objects.all()\n    serializer_class = MentorshipSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Activity Feed",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "MentorshipViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class MentorshipViewSet(viewsets.ModelViewSet):\n    queryset = Mentorship.objects.all()\n    serializer_class = MentorshipSerializer\n    permission_classes = [permissions.IsAuthenticated]\n# Activity Feed\nclass ActivityViewSet(viewsets.ModelViewSet):\n    queryset = Activity.objects.all()\n    serializer_class = ActivitySerializer\n    permission_classes = [permissions.IsAuthenticated]\n# External Integration",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "ActivityViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class ActivityViewSet(viewsets.ModelViewSet):\n    queryset = Activity.objects.all()\n    serializer_class = ActivitySerializer\n    permission_classes = [permissions.IsAuthenticated]\n# External Integration\nclass ExternalIntegrationViewSet(viewsets.ModelViewSet):\n    queryset = ExternalIntegration.objects.all()\n    serializer_class = ExternalIntegrationSerializer\n    permission_classes = [permissions.IsAuthenticated]",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "ExternalIntegrationViewSet",
+        "kind": 6,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "class ExternalIntegrationViewSet(viewsets.ModelViewSet):\n    queryset = ExternalIntegration.objects.all()\n    serializer_class = ExternalIntegrationSerializer\n    permission_classes = [permissions.IsAuthenticated]",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "say_hello",
+        "kind": 2,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "def say_hello(request):\n    return render(request, \"hello.html\", {\"name\": \"Mah\"})\ndef issue_list(request):\n    issues = Issue.objects.all().values(\"id\", \"title\", \"description\")\n    return JsonResponse(list(issues), safe=False)\nfrom rest_framework import viewsets, permissions\nfrom .models import *\nfrom .serializers import *\n# User & Profile\nclass UserViewSet(viewsets.ModelViewSet):",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "issue_list",
+        "kind": 2,
+        "importPath": "acameet.acameets.views",
+        "description": "acameet.acameets.views",
+        "peekOfCode": "def issue_list(request):\n    issues = Issue.objects.all().values(\"id\", \"title\", \"description\")\n    return JsonResponse(list(issues), safe=False)\nfrom rest_framework import viewsets, permissions\nfrom .models import *\nfrom .serializers import *\n# User & Profile\nclass UserViewSet(viewsets.ModelViewSet):\n    queryset = User.objects.all()\n    serializer_class = UserSerializer",
+        "detail": "acameet.acameets.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "acameet.manage",
+        "description": "acameet.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"acameet.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "acameet.manage",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len('bin') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len('bin') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = '' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in '../lib/python3.13/site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "menv.bin.activate_this",
+        "description": "menv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "menv.bin.activate_this",
+        "documentation": {}
+    }
+]
